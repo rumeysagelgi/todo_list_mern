@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Teachers:ital,wght@0,400..800;1,400..800&display=swap');
+
+body {
+  background-image: url('./img/safwan-thottoli-upQCmuAFGho-unsplash.jpg');
+  background-repeat: no-repeat;
+  background-size: auto;
+  background-color: white;
+  font-family: "Teachers", sans-serif;
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+

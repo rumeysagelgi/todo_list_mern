@@ -1,0 +1,46 @@
+/* Customize scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 255, 0.705);
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+/* ----- */
+
+.active, .logout {
+  color: #a21caf;
+  text-shadow: 5px 5px 8px #4338ca;
+  font-weight: 600;
+  padding: 5px 10px;
+}
+
+task-container {
+  height: 90vh;
+  background-color: white;
+}
+
+.outlet {
+  height: 470px;
+  background-color: rgb(168, 162, 158);
+  border: 3px outset black;
+  border-radius: 10px;
+  padding: 1rem;
+  overflow: auto;
+}
+
+.taskSorter {
+  display: flex;
+  align-items: center;
+  height:10vh;
+  margin:auto 10px;
+}
