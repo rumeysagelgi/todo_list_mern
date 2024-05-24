@@ -141,7 +141,7 @@ Run the app with `npm start`.
 - ***userController.js*** : Contains functions responsible for user authentication, registration and retrieval of user information.
 
 
-<ins>***middleware***</ins> :
+<ins>***middleware***</ins>
 
 - ***requireAuth.js*** : Ensures that routes or endpoints requiring authentication are only accessible to authenticated users.
 
