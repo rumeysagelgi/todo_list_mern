@@ -49,7 +49,7 @@ Replace the values with your own environment variables.
 
 Install Nodemon with `npm install -g --force nodemon`.
 
-Start the server with `nodemon server `.
+Start the server with `nodemon server`.
 
 ### Client
 Go to `client` directory and install dependencies with `npm install`.
