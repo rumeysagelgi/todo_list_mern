@@ -27,9 +27,11 @@ Front-End:
 Back-End:
 - **Node.js:** a cross-platform JavaScript runtime environment
 - **Express.js:** a back-end framework that works on top of Node.js web server functionality
+- **JSON Web Tokens (JWT):** an open standard for securely sharing JSON data between parties
+
+Database:
 - **MongoDB:** a document-oriented NoSQL database
 - **Mongoose:** a Node.js-based Object Data Modeling (ODM) library for MongoDB
-- **JSON Web Tokens (JWT):** an open standard for securely sharing JSON data between parties
 
 
 ## How to Run:
