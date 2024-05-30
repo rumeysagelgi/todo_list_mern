@@ -6,7 +6,7 @@
 
 
 ## Description:
-To-Do List is *TBF
+To-Do List is a web application designed to help you keep your daily tasks organized. It allows you to add, update, delete and display tasks with ease, ensuring you stay on top of your daily responsibilities. Tasks can be displayed in multiple categories, providing a clear view of your progress. This project highlights a comprehensive set of full-stack development skills and is built with the MERN stack.
 
 
 ## Features:
